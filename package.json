@@ -8,12 +8,16 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@react-native-community/slider": "3.0.3",
+    "@react-native-picker/picker": "1.9.11",
     "expo": "~41.0.1",
+    "expo-2d-context": "0.0.2",
+    "expo-gl": "~10.2.0",
+    "expo-screen-orientation": "~3.1.0",
     "expo-status-bar": "~1.0.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz",
-    "react-native-web": "~0.13.12"
+    "react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"
